@@ -1,39 +1,54 @@
-# Hi, I'm David! 👋
+<h1 align="center">
+  Hi, I'm David!
+	<a href="https://github.com/DavidLozSan" target="_self">
+		<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30">
+	</a>
+</h1>
 
-💻 I am a Junior Android Developer  
-🌟 Main languages: Kotlin  
-🤝 I'm currently open for: a Job or an Intern.
----
+<pre>
+  💻 I am a Junior Android Developer
+  🌟 Main languages: Kotlin
+  🤔 I’m currently open for: a <b>Job</b> or an <b>Intern</b>.
+</pre>
 
-## Connect with Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/david-lozano-sánchez/)
 
----
+### Connect with Me
 
-## 🧑‍💻 Programming Languages
-![Kotlin](https://img.shields.io/badge/Kotlin-purple?style=for-the-badge&logo=kotlin&logoColor=white)
-![Java](https://img.shields.io/badge/Java-orange?style=for-the-badge&logo=java&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-black?style=for-the-badge&logo=javascript)
+<p>
+  <a href="https://www.linkedin.com/in/david-lozano-sánchez/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+</p>
 
----
+### 👨‍💻 Programming Languages
 
-## 📚 Frameworks and Libraries
-![Android](https://img.shields.io/badge/Android-green?style=for-the-badge&logo=android&logoColor=white)
+<p>
+  <a href="#"><img alt="Kotlin" src="https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white"></a>
+  <a href="#"><img alt="Java" src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white"></a>
+  <a href="#"><img alt="JavaScript" src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"></a>
+</p>
 
----
+### 🧰 Frameworks and Libraries
 
-## ☁️ Databases and Cloud Hosting
-![Firebase](https://img.shields.io/badge/Firebase-yellow?style=for-the-badge&logo=firebase&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-blue?style=for-the-badge&logo=mysql&logoColor=white)
+<p>
+    <a href="#"><img alt="Android" src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white"></a>
+</p>
 
----
+### 🗄️ Databases and Cloud Hosting
 
-## 🎨 Design
-![Figma](https://img.shields.io/badge/Figma-orange?style=for-the-badge&logo=figma&logoColor=white)
+<p>
+    <a href="#"><img alt="Firebase" src="https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=Firebase&logoColor=yellow"></a>
+    <a href="#"><img alt="MySQL" src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white"></a>
+</p>
 
----
+### 🎨 Desing
 
-## 🛠️ Software and Tools
-![Android Studio](https://img.shields.io/badge/Android%20Studio-green?style=for-the-badge&logo=android-studio&logoColor=white)
-![Git](https://img.shields.io/badge/Git-red?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github&logoColor=white)
+<p>
+    <a href="#"><img alt="Figma" src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white"></a>
+</p>
+
+### 💻 Software and Tools
+
+<p>
+    <a href="#"><img alt="Android Studio" src="https://img.shields.io/badge/Android%20Studio-3DDC84.svg?style=for-the-badge&logo=android-studio&logoColor=white"></a>
+    <a href="#"><img alt="Git" src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white"></a>
+    <a href="#"><img alt="GitHub" src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white"></a>
+</p>
