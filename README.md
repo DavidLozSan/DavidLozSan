@@ -11,7 +11,8 @@
   🤔 I’m currently open for: a <b>Job</b> or an <b>Intern</b>.
 </pre>
 
-![DavidLozSan GitHub Stats](https://github-readme-stats.vercel.app/api?username=DavidLozSan)
+![Tu GitHub Stats](https://github-readme-stats.vercel.app/api?username=TU_USUARIO&show_icons=true&theme=dark)
+
 
 ### Connect with Me
 
