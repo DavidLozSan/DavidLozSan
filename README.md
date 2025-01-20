@@ -9,9 +9,9 @@
   💻 I am a Junior Android Developer
   🌟 Main languages: Kotlin
   🤔 I’m currently open for: a <b>Job</b> or an <b>Intern</b>.
-	![Tu GitHub Stats](https://github-readme-stats.vercel.app/api?username=DavidLozSan&show_icons=true&theme=dark)
 </pre>
 
+![Tu GitHub Stats](https://github-readme-stats.vercel.app/api?username=DavidLozSan&show_icons=true&theme=dark)
 
 ### Connect with Me
 
